@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Arduinou 硬體控制(使用 Mind+、 YL 學習板...'
+copyright = '2022, Loren Li'
+author = 'Loren Li'
 
 release = '0.1'
 version = '0.1.0'
@@ -30,6 +30,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
