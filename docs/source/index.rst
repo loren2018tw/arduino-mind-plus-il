@@ -3,7 +3,7 @@
  
 本課程使用 |mind+ logo|  http://mindplus.cc/ (一個基於 scratch 3 修改的積木式程式設計軟體) 及 Arduino Uno + IL 學習板 來進行外部硬體控制器教學。
 
-.. |mind+ logo| image:: ./mind_pluslogo.png
+.. |mind+ logo| image:: ./image/mind_pluslogo.png
 
 .. image:: ./image/arduino-uno.jpg
 
@@ -19,3 +19,8 @@
    led-button
    rgb-led
    buzzer
+   digital-analogy
+   photoresistor
+   IR-detection
+   dht11
+   game
