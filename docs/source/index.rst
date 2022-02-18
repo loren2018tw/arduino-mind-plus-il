@@ -5,7 +5,7 @@
 
 .. |mind+ logo| image:: ./mind_pluslogo.png
 
-.. image:: ./arduino-uno.jpg
+.. image:: ./image/arduino-uno.jpg
 
 .. note::
    - 這只是我用來練習 rst 寫文件的練習... 所以內容 ...
@@ -18,3 +18,4 @@
    base
    led-button
    rgb-led
+   buzzer

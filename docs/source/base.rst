@@ -10,18 +10,18 @@ Mind+ 及 外部感應器 基礎概念
 
 3.接著我們要連結硬體設備，這樣 mind+ 才能跟外部硬體互動
 
-.. image:: mplus001.png
+.. image:: ./image/mplus001.png
 
 選擇 Arduino Uno 開源套件，就會載入此硬體的相關指令積木
 
-.. image:: mplus002.png
+.. image:: ./image/mplus002.png
 
 接著與 Arduino 連線，這裡的 COM5 可能是 COM3、COM4... 要依據自己電腦分配的串列埠號碼選擇
 
-.. image:: mplus003.png
+.. image:: ./image/mplus003.png
 
 連線後 Mind+ 會自動更新韌體，這是其他類似軟體沒有的方便設計 （這個設計直接 +50分）
 
-.. image:: mplus004.png
+.. image:: ./image/mplus004.png
 
 這時候就可以開始練習我們的課程了
