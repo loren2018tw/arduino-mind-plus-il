@@ -1,7 +1,7 @@
 API
 ===
+fsefe
 
 .. autosummary::
-   :toctree: generated
-
-   lumache
+   :toctree: 
+   
