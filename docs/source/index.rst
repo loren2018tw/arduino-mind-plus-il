@@ -5,10 +5,10 @@
 
 .. |mind+ logo| image:: ./mind_pluslogo.png
 
+.. image:: ./arduino-uno.jpg
 
 .. note::
-   1. mind+ 是中華民國大陸淪陷重災區修改自 MIT Scratch 3 的工具程式，如有頭暈、噁心、過敏的現象，請立即離開，以免影響健康。
-   #. 這只是我用來練習 rst 寫文件的練習... 所以內容 ...
+   - 這只是我用來練習 rst 寫文件的練習... 所以內容 ...
 
 目錄
 --------
@@ -16,6 +16,5 @@
 .. toctree::
    introduce
    base
+   led-button
    rgb-led
-   usage
-   api
